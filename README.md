@@ -3,4 +3,9 @@ For the landing page project, I built a simple website for my beautiful country 
 As a beginner, I am proud of the outcome.<br>
 I have incorporated different skills learned from the Odin project and my research.<br>
 Now I am confident to work on more projects.<br>
-Happy Coding!!
+Happy Coding!!<br>
+
+<br>
+Check out the project below:<br>
+https://rennyroyal.github.io/Landing-Page/
+
